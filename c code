@@ -1117,6 +1117,7 @@ void valOfconst() {
         case 40: printf("Quantum conductance = 7.75 Ã— 10^-5 S\n"); break;
         default: printf("INVALID INPUT!\n"); break;
     }
+    
 }
 
 void vectorOperations() {
